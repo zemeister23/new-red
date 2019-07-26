@@ -3,7 +3,6 @@ var router = express.Router();
 
 /* GET profile listing. */
 router.get('/', function(req, res, next) {
-  //res.send('PROFILE make by RedWolf Team: Zemeister,Zakari,Behruz,Shohnur');
   res.render('profile.jade');
 });
 /* POST profile listing. */

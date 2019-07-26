@@ -1,6 +1,6 @@
 body {
   padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 25px "Lucida Grande", Helvetica, Arial, sans-serif;
   background-image: url("../images/image.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
@@ -13,6 +13,7 @@ a:link, a:visited {
   text-align: center;
   text-decoration: none;
   display: inline-block;
+  font-size: 15px;
 }
 
 a:hover, a:active {
